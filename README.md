@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
 </p>
 
@@ -33,6 +32,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
 </p>
+
+<p align="center"> Pending Techs </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+</p>
+
+
 <!-- 
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
