@@ -36,6 +36,11 @@
 <p align="center"> Pending Techs </p>
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+   <br>
+</p>
+
+<p align="center"> Pending Techs </p>
+<a href="https://psychogrammer.tistory.com/">Visit my Blog</a> 
 </p>
 
 
