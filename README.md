@@ -15,18 +15,11 @@
   <br>
 </p>
 
-
 <p align="center"> Sub Techs </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
-</p>
-
-
-<p align="center"> Learning Techs </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
 </p>
 
 <p align="center"> Used Techs </p>
