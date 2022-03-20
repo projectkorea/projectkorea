@@ -40,7 +40,7 @@
    <br>
 </p>
 
-<p align="center"> <a href="https://psychogrammer.tistory.com/">Visit my Blog </a> </p>
+<p align="center"> <a href="https://psychogrammer.tistory.com/">😎 Visit my Blog 😎</a> </p>
 
 
 <!-- 
