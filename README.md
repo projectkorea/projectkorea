@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-339933?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
@@ -29,17 +29,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
+  <br>
+  <br>
 </p>
 
 
 <p align="center"> <a href="https://psychogrammer.tistory.com/">😎 Visit my Blog 😎</a> </p>
 
 
-<!-- 
-<br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-<a href="https://"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://"/></a>&nbsp
-<div align="center" style="text-align:center">
-</div>
- -->
